@@ -21,8 +21,8 @@ A simple "Spot the Difference" game built with React-Vite. The game loads config
 ## How to Run
 
 1. Clone this repository
-2. Open `index.html` in your web browser
-3. Start playing!
+2. npm install
+3. npm run dev
 
 Alternatively, you can host the files on any web server.
 
